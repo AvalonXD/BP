@@ -1,4 +1,4 @@
-﻿semitic_religion = {
+﻿somali_religion = {#TODO: input some of WtWSMS notes
 	family = rf_pagan
 
 	doctrine = pagan_hostility_doctrine
@@ -12,7 +12,7 @@
 	doctrine = doctrine_theocracy_temporal
 
 	#Marriage
-	doctrine = doctrine_polygamy
+	doctrine = doctrine_concubines
 	doctrine = doctrine_divorce_allowed
 	doctrine = doctrine_bastardry_none
 	doctrine = doctrine_consanguinity_aunt_nephew_and_uncle_niece
@@ -194,15 +194,15 @@
 	}
 
 	faiths = {
-		semitic_pagan = {
-			color = hsv { 0.15  1  0.7 }
-			icon = kushism
+		somali_pagan = {
+			color = { 0.8 0.35 0.4 }
+			icon = waaqism
 
-			holy_site = mecca
-			holy_site = nizwa
-			holy_site = baghdad
-			holy_site = bahrein
-			holy_site = yamama
+			holy_site = aksum
+			holy_site = kaffa
+			holy_site = harar
+			holy_site = napata
+			holy_site = mogadishu
 
 			doctrine = tenet_ritual_hospitality
 			doctrine = tenet_ancestor_worship
